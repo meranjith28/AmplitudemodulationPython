@@ -1,4 +1,4 @@
-# Amplitudemodulationpython
+# Amplitude modulation python
 
 Aim
 
