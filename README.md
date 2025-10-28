@@ -31,7 +31,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Parameters
-am = 4.2      # Message amplitude
+am = 4.6      # Message amplitude
 fm = 366      # Message frequency
 ac = 9.2      # Carrier amplitude
 fc = 3660     # Carrier frequency
