@@ -31,11 +31,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Parameters
-am = 4.4      # Message amplitude
-fm = 352      # Message frequency
-ac = 8.5      # Carrier amplitude
-fc = 3520     # Carrier frequency
-fs = 35200    # Sampling frequency
+am = 4.2      # Message amplitude
+fm = 366      # Message frequency
+ac = 9.2      # Carrier amplitude
+fc = 3660     # Carrier frequency
+fs = 36600    # Sampling frequency
 t = np.arange(0, 2/fm, 1/fs)  # Time vector
 
 # Message signal
@@ -65,6 +65,8 @@ Output Graph:
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/0def0014-4631-4c93-a7e8-a9a6fd84e17e" />
 
 Tabulation:
+
+![WhatsApp Image 2025-10-28 at 10 33 28_3dc9ac30](https://github.com/user-attachments/assets/17e4f241-03e8-4857-bcb9-cc1d38011e39)
 
 
 Result
