@@ -66,7 +66,7 @@ Output Graph:
 
 Tabulation:
 
-![WhatsApp Image 2025-10-28 at 10 33 28_3dc9ac30](https://github.com/user-attachments/assets/17e4f241-03e8-4857-bcb9-cc1d38011e39)
+<img width="699" height="840" alt="image" src="https://github.com/user-attachments/assets/12f95013-460d-4c47-a6b0-37231ff5ad3f" />
 
 
 Result
