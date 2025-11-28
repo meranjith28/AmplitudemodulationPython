@@ -66,7 +66,7 @@ Output Graph:
 
 Tabulation:
 
-![20251128_200044](https://github.com/user-attachments/assets/569d3399-ea79-4b9f-8fcc-a23e2dfcf058)
+![20251128_200016](https://github.com/user-attachments/assets/89d3c4ea-b715-4477-ac95-159e6ef69018)
 
 
 Result
