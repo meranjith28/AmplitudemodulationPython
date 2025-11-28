@@ -66,7 +66,7 @@ Output Graph:
 
 Tabulation:
 
-<img width="699" height="840" alt="image" src="https://github.com/user-attachments/assets/12f95013-460d-4c47-a6b0-37231ff5ad3f" />
+![20251128_200044](https://github.com/user-attachments/assets/569d3399-ea79-4b9f-8fcc-a23e2dfcf058)
 
 
 Result
